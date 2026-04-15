@@ -2,6 +2,10 @@
 
 Title: Self-Hosting Stable Diffusion XL with OCI Data Science
 
+## Create a Bucket in Object Storage
+...
+
+
 ## Creating the notebook:
 
 - Storage 200GB
