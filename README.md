@@ -14,6 +14,8 @@ Establish and authenticate OCI Data Science Notebook with Object Storage
 odsc conda init -b oci_data_science_conda_bp -n fro8fl9kuqli -a resource_principal
 ```
 
+Run the below commands in the terminal.
+Note. The last command will take a few minutes to install all packages.
 ```
 odsc conda install -s python_p311_any_x86_64_v3
 conda activate /home/datascience/conda/python_p311_any_x86_64_v3
