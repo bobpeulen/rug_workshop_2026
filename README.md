@@ -46,6 +46,20 @@ When curious, go back to Object Storage after completion of the above commands. 
 
 ## Open the Notebook and Run the cells
 
+1. Clone this repository
+.. Git clone
+
+
+2. Open the notebook and select the just created Conda environment. See image 3.
+   ```
+   Python[Conda env:sdxlv3_0]
+   ```
+
+   *Image 3*
+   <img width="432" height="166" alt="image" src="https://github.com/user-attachments/assets/7b628443-2d56-4cd2-89b9-5b5cb3b89719" />
+
+
+
 
 
 
