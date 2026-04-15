@@ -2,6 +2,11 @@
 
 Title: Self-Hosting Stable Diffusion XL with OCI Data Science
 
+## Creating the notebook:
+
+- Storage 200GB
+- VM.Standard.E5.Flex
+Virtual machine, 4 core OCPU, 64 GB memory, 4 Gbps network bandwidth
 
 
 ## Creating and publishing a new Conda Environment.
