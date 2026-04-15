@@ -36,14 +36,14 @@ odsc conda clone -f python_p311_any_x86_64_v3 -e sdxl
 odsc conda publish -s sdxlv3_0
 ```
 
-  *Image 1*
-  <img width="1510" height="303" alt="image" src="https://github.com/user-attachments/assets/74112d21-3f4c-4644-8c4d-c55e5b8b56dd" />
+ *Image 1*
+ <img width="1510" height="303" alt="image" src="https://github.com/user-attachments/assets/74112d21-3f4c-4644-8c4d-c55e5b8b56dd" />
 
 When curious, go back to Object Storage after completion of the above commands. You should see the conda environment like in the below screenshot.
 
  
  *Image 2*
-  <img width="698" height="587" alt="image" src="https://github.com/user-attachments/assets/ca8d2c38-e186-4b86-9c75-1f8f17534157" />
+ <img width="698" height="587" alt="image" src="https://github.com/user-attachments/assets/ca8d2c38-e186-4b86-9c75-1f8f17534157" />
 
 ## Open the Notebook and Run the cells
 
@@ -57,7 +57,7 @@ When curious, go back to Object Storage after completion of the above commands. 
    ```
 
 *Image 3*
-   <img width="432" height="166" alt="image" src="https://github.com/user-attachments/assets/7b628443-2d56-4cd2-89b9-5b5cb3b89719" />
+ <img width="432" height="166" alt="image" src="https://github.com/user-attachments/assets/7b628443-2d56-4cd2-89b9-5b5cb3b89719" />
 
 
 
