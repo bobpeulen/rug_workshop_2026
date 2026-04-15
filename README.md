@@ -72,6 +72,16 @@ When curious, go back to Object Storage after completion of the above commands. 
 
  3. Run the notebook
 
+When asked for the Log Group OCID and Log OCID. Use the below values.
+Log Group OCID:
+```
+xxx
+```
+Log OCID:
+```
+sx
+```
+
 
 
 
