@@ -73,11 +73,12 @@ When curious, go back to Object Storage after completion of the above commands. 
  3. Run the notebook
 
 When asked for the Log Group OCID and Log OCID. Use the below values.
-Log Group OCID:
+
+Use the below for "deployment_log_group_id".
 ```
 xxx
 ```
-Log OCID:
+Use the below for "deployment_access_log_id" and "deployment_predict_log_id:
 ```
 sx
 ```
