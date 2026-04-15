@@ -1,9 +1,10 @@
-# rug_workshop_2026
+# University of Groningen - Workshop Steps - 2026
+
+Title: Self-Hosting Stable Diffusion XL with OCI Data Science
 
 
 
-
-## Conda steps
+## Creating and publishing a new Conda Environment.
 
 - Open a terminal
 - Run the below commands step by step.
@@ -35,11 +36,18 @@ odsc conda clone -f python_p311_any_x86_64_v3 -e sdxl
 odsc conda publish -s sdxlv3_0
 ```
 
-*Image 1*
-<img width="1510" height="303" alt="image" src="https://github.com/user-attachments/assets/74112d21-3f4c-4644-8c4d-c55e5b8b56dd" />
+  *Image 1*
+  <img width="1510" height="303" alt="image" src="https://github.com/user-attachments/assets/74112d21-3f4c-4644-8c4d-c55e5b8b56dd" />
+
+When curious, go back to Object Storage after completion of the above commands. You should see the conda environment like in the below screenshot.
+
+  *Image 2*
+  <img width="698" height="587" alt="image" src="https://github.com/user-attachments/assets/ca8d2c38-e186-4b86-9c75-1f8f17534157" />
+
+## Open the Notebook and Run the cells
 
 
-When curious, go back to Object Storage after completion of the above commands. You should see the conda environment.
+
 
 
 
