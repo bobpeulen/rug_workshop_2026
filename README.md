@@ -18,13 +18,19 @@ Run the below commands in the terminal.
 Note. The last command will take a few minutes to install all packages.
 ```
 odsc conda install -s python_p311_any_x86_64_v3
+```
+```
 conda activate /home/datascience/conda/python_p311_any_x86_64_v3
+```
+```
 pip install diffusers[torch] transformers accelerate pillow oci oracle-ads
 ```
 
 Run the below two commands. This will copy the Conda into a new environment named "sdxl" and publish it to Object Storage.
 ```
 odsc conda clone -f python_p311_any_x86_64_v3 -e sdxl
+```
+```
 odsc conda publish -s sdxlv2_0
 ```
 
