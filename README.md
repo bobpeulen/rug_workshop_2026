@@ -43,6 +43,7 @@ When curious, go back to Object Storage after completion of the above commands. 
 
  
  *Image 2*
+ 
  <img width="698" height="587" alt="image" src="https://github.com/user-attachments/assets/ca8d2c38-e186-4b86-9c75-1f8f17534157" />
 
 ## Open the Notebook and Run the cells
@@ -51,13 +52,16 @@ When curious, go back to Object Storage after completion of the above commands. 
 .. Git clone
 
 
-2. Open the notebook and select the just created Conda environment. See image 3.
+2. Open the notebook and select the just created Conda environment with the below slug. See image 3.
    ```
    Python[Conda env:sdxlv3_0]
    ```
 
 *Image 3*
+
  <img width="432" height="166" alt="image" src="https://github.com/user-attachments/assets/7b628443-2d56-4cd2-89b9-5b5cb3b89719" />
+
+ 3. Run the notebook
 
 
 
