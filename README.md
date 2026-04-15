@@ -31,7 +31,19 @@ Run the below two commands. This will copy the Conda into a new environment name
 odsc conda clone -f python_p311_any_x86_64_v3 -e sdxl
 ```
 ```
-odsc conda publish -s sdxlv2_0
+odsc conda publish -s sdxlv3_0
 ```
 
 When curious, go back to Object Storage after completion of the above commands. You should see the conda environment.
+
+
+
+
+
+
+
+
+
+
+
+x
